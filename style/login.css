@@ -1,0 +1,23 @@
+.h-100vh{
+    height: 100vh;
+}
+
+.text-center{
+    text-align: center;
+}
+
+input{
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+form {
+    border-radius: 10px;
+    border: 1px black solid;
+    margin: auto;
+    padding-top: 50px;
+    height: 400px;
+    width: 600px;
+}
+
+
